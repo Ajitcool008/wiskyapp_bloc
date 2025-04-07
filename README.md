@@ -4,11 +4,11 @@ A Flutter project demonstration implementation of CLEAN architecture with BLoC.
 
 ## Features
 
-**Authentication:** Simple sign-in flow with email validation
-**Collection Management:** Grid view of whisky bottles with basic information
-**Bottle Details:** Comprehensive information about each bottle
-**Tasting Notes:** Expert tasting notes with nose, palate, and finish descriptions
-**Offline Support:** Local data persistence for offline access
+- **Authentication:** Simple sign-in flow with email validation.
+- **Collection Management:** Grid view of whisky bottles with basic information.
+- **Bottle Details:** Comprehensive information about each bottle.
+- **Tasting Notes:** Expert tasting notes with nose, palate, and finish descriptions.
+- **Offline Support:** Local data persistence for offline access.
 
 
 ## Technical Implementation
@@ -16,9 +16,9 @@ A Flutter project demonstration implementation of CLEAN architecture with BLoC.
 **Architecture**
 The app follows a clean architecture with:
 
-**Presentation Layer:** UI screens and BLoC state management
-**Domain Layer:** Business logic and repository interfaces
-**Data Layer:** Data models and repository implementations
+- **Presentation Layer:** UI screens and BLoC state management
+- **Domain Layer:** Business logic and repository interfaces
+- **Data Layer:** Data models and repository implementations
 
 **State Management**
 BLoC (Business Logic Component) pattern is used for state management, providing:
